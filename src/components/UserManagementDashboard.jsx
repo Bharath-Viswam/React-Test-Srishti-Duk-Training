@@ -55,7 +55,7 @@ const UserManagementDashboard = () => {
       {/* Error */}
       {error && <p style={{ color: "red" }}>{error}</p>}
 
-      {/* 📋 Table */}
+      {/* Table */}
       {!loading && !error && (
         <table border="1" cellPadding="10" cellSpacing="0">
           <thead>
