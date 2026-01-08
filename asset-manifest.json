@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Test-Srishti-Duk-Training/static/css/main.f855e6bc.css",
-    "main.js": "/React-Test-Srishti-Duk-Training/static/js/main.8f83836f.js",
+    "main.css": "/React-Test-Srishti-Duk-Training/static/css/main.852f9438.css",
+    "main.js": "/React-Test-Srishti-Duk-Training/static/js/main.9db3bdf9.js",
     "static/js/453.e908b998.chunk.js": "/React-Test-Srishti-Duk-Training/static/js/453.e908b998.chunk.js",
     "index.html": "/React-Test-Srishti-Duk-Training/index.html",
-    "main.f855e6bc.css.map": "/React-Test-Srishti-Duk-Training/static/css/main.f855e6bc.css.map",
-    "main.8f83836f.js.map": "/React-Test-Srishti-Duk-Training/static/js/main.8f83836f.js.map",
+    "main.852f9438.css.map": "/React-Test-Srishti-Duk-Training/static/css/main.852f9438.css.map",
+    "main.9db3bdf9.js.map": "/React-Test-Srishti-Duk-Training/static/js/main.9db3bdf9.js.map",
     "453.e908b998.chunk.js.map": "/React-Test-Srishti-Duk-Training/static/js/453.e908b998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8f83836f.js"
+    "static/css/main.852f9438.css",
+    "static/js/main.9db3bdf9.js"
   ]
 }
