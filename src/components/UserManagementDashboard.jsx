@@ -45,7 +45,12 @@ const UserManagementDashboard = () => {
       />
 
       {/* Loading */}
-      {loading && <p>Loading users...</p>}
+      {loading && (
+        <div style={{ textAlign: "center", margin: "20px" }}>
+          <div className="spinner"></div>
+          <p>Loading users...</p>
+        </div>
+      )}
 
       {/* Error */}
       {error && <p style={{ color: "red" }}>{error}</p>}
